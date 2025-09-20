@@ -1,4 +1,4 @@
-Currently studying undergraduate electrical, electronics and information engineering for the automotive technologies at Nagoya University's G30 program. Hobbies include coding, anime and games.
+Currently studying electrical, electronics and information engineering at Nagoya University's G30 undergraduate automotive program. I am interested in a variety of softwares, primarily focusing on simulation and verification tech stacks.
 
 <!---
 MasoodSaamer/MasoodSaamer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
